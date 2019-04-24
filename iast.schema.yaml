@@ -59,10 +59,8 @@ key_binder:
   import_preset: default
 
 punctuator:
-  import_preset: symbols
+  import_preset: default
 #  import_preset: alternative
 
 recognizer:
   import_preset: default
-  patterns:
-    punct: '^zb[a-z]*'    #symbols中有用。
