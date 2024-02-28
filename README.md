@@ -10,6 +10,10 @@ https://github.com/arpcn/rime-iast
 
 https://github.com/arpcn/rime-siddham
 
+藏文
+
+https://github.com/arpcn/rime-tibetan
+
 鍵盤分布：
 
 ![鍵盤](https://github.com/arpcn/rime-devanagari/blob/master/鍵盤.png)
